@@ -10,7 +10,7 @@ La Intel·ligència Artificial (IA) té múltiples aplicacions en diversos secto
 
 ### 1.1 Salut
 
-La IA permet millorar els serveis de salut, com:
+La IA permet millorar els serveis de salut,  com:
 
 - **Diagnòstic per imatge**: Els sistemes d'IA poden analitzar radiografies i altres imatges per detectar malalties com el càncer.
 - **Assistència virtual**: Els assistents virtuals proporcionen recomanacions sanitàries i gestionen cites.
