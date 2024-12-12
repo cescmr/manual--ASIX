@@ -1,11 +1,17 @@
-# manual--ASIX
+# Manual -- ASIX
 
-Soporte Tecnico
+## Soporte Técnico
+Para más información sobre Soporte Técnico, consulta el archivo [soporttecnic.md](soporttecnic.md).
 
-Anàlisis de dades
+## Análisis de Datos
+Consulta el archivo [analisis_de_datos.md](analisis_de_datos.md) para más detalles sobre Análisis de Datos.
 
-Desenvolupament
+## Desarrollo
+Más información sobre el desarrollo en el archivo [Desenvolupamiento_IA.md](Desenvolupamiento_IA.md).
 
-Gestió de la seguretat
+## Gestión de la Seguridad
+Para saber más sobre Gestión de la Seguridad, revisa el archivo [gestio_seguretat.md](gestio_seguretat.md).
 
-Xarxes
+## Redes
+Para información sobre redes, consulta el archivo [xarxes.md](xarxes.md).
+
