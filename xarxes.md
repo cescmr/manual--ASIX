@@ -82,3 +82,4 @@ Aquest manual proporciona informació detallada sobre l'ús de la Intel·ligènc
 ## 4. Conclusió
 
 La Intel·ligència Artificial en el sector de les xarxes ofereix oportunitats importants per millorar la seguretat, l'eficiència i la flexibilitat de les infraestructures de xarxa. No obstant això, el seu ús extensiu genera impactes ambientals significatius, especialment pel que fa al consum energètic i la generació de residus electrònics. Per mitigar aquests impactes, és fonamental adoptar solucions d'optimització energètica, reutilització de materials i la promoció de fonts d'energia renovables.
+.
