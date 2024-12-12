@@ -1,7 +1,7 @@
 # Manual -- ASIX
 
 ## Soporte Técnico
-Para más información sobre Soporte Técnico, consulta el archivo [soporttecnic.md](soporttecnic.md).
+Para más información sobre Soporte Técnico, consulta el archivo [suporttecnic.md](suporttecnic.md).
 
 ## Análisis de Datos
 Consulta el archivo [analisis_de_datos.md](analisis_de_datos.md) para más detalles sobre Análisis de Datos.
