@@ -1,6 +1,5 @@
-**Gestión de la Seguridad: Protección de Activos, Datos e Infraestructuras **
-
-1. Áreas Clave de la Seguridad
+**Manual: Gestión de la Seguridad**
+**1. Áreas Clave de la Seguridad**
 
 1.1. Seguridad Física
 
@@ -32,7 +31,7 @@ Implementación de planes de recuperación ante desastres.
 
 Clasificación y protección de datos sensibles según su nivel de criticidad.
 
-2. Proceso de Gestión de la Seguridad
+**2. Proceso de Gestión de la Seguridad**
 
 2.1. Identificación de Riesgos
 
@@ -68,7 +67,7 @@ Contención del daño.
 
 Recuperación de los sistemas afectados.
 
-3. Políticas Clave
+**3. Políticas Clave**
 
 3.1. Contraseñas
 
