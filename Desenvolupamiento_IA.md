@@ -1,6 +1,5 @@
 # Manual de Inteligencia Artificial Aplicada al Desarrollo
 
-<h1>Manual de Inteligencia Artificial Aplicada al Desarrollo</h1>
 <a href="https://www.muycomputerpro.com/" target="_blank">
     <img src="https://www.muycomputerpro.com/wp-content/uploads/2018/01/Inteligencia_Artificial.jpg" alt="Inteligencia Artificial" style="width: 500px; height: auto;" />
 </a>
