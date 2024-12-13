@@ -1,9 +1,15 @@
-
 # Manual d'Aplicacions de la IA en Xarxes
 
 Aquest manual proporciona informació detallada sobre l'ús de la Intel·ligència Artificial (IA) en el camp de les xarxes, incloent les seves aplicacions, impactes en el sector i en el medi ambient, així com les propostes per minimitzar aquests impactes.
+<br><br>
+# INDEX
+- [IA en la Gestió i Optimització de Xarxes](#1-ia-en-la-gestio-i-optimitzacio-de-xarxes)
+- [IA en la Seguretat de Xarxes](#2-ia-en-la-seguretat-de-xarxes)
+- [IA en la Planificació i Disseny de Xarxes](#3-ia-en-la-planificacio-i-disseny-de-xarxes)
+- [Conclusió](#4-conclusio)
+<br><br><br>
 
-## 1. IA en la Gestió i Optimització de Xarxes
+# 1. IA en la Gestio i Optimitzacio de Xarxes
 
 ### 1.1. Aplicacions de la IA
 
@@ -27,9 +33,9 @@ Aquest manual proporciona informació detallada sobre l'ús de la Intel·ligènc
 - **Optimització de l'eficiència energètica**: Implementar algoritmes d'IA que no només optimitzin les xarxes, sinó que també busquin reduir el consum energètic dels centres de dades.
 - **Ús de fonts d'energia renovables**: Promoure l'ús d'energia renovable en els centres de dades on es realitza el processament de la IA.
 
----
+<br><br><br>
 
-## 2. IA en la Seguretat de Xarxes
+# 2. IA en la Seguretat de Xarxes
 
 ### 2.1. Aplicacions de la IA
 
@@ -52,9 +58,9 @@ Aquest manual proporciona informació detallada sobre l'ús de la Intel·ligènc
 - **Implementació d'algoritmes més eficients**: Desenvolupar models d'IA més eficients que requereixin menys poder de càlcul per aconseguir els mateixos resultats, reduint així el consum energètic.
 - **Reutilització de hardware**: Fomentar la reutilització i reciclatge dels equips informàtics utilitzats per a la seguretat de xarxes per reduir els residus electrònics.
 
----
+<br><br><br>
 
-## 3. IA en la Planificació i Disseny de Xarxes
+# 3. IA en la Planificacio i Disseny de Xarxes
 
 ### 3.1. Aplicacions de la IA
 
@@ -77,9 +83,8 @@ Aquest manual proporciona informació detallada sobre l'ús de la Intel·ligènc
 - **Disseny d'infraestructures sostenibles**: Optimitzar el disseny de xarxes per evitar la sobrecàrrega d'equips i millorar la seva durabilitat, minimitzant l'impacte ambiental a llarg termini.
 - **Tecnologies de baix consum**: Promoure l'ús de tecnologies de xarxa que consumeixin menys energia, com les xarxes de fibra òptica o les arquitectures de xarxes més eficients energèticament.
 
----
+<br><br><br>
 
-## 4. Conclusió
+# 4. Conclusio
 
 La Intel·ligència Artificial en el sector de les xarxes ofereix oportunitats importants per millorar la seguretat, l'eficiència i la flexibilitat de les infraestructures de xarxa. No obstant això, el seu ús extensiu genera impactes ambientals significatius, especialment pel que fa al consum energètic i la generació de residus electrònics. Per mitigar aquests impactes, és fonamental adoptar solucions d'optimització energètica, reutilització de materials i la promoció de fonts d'energia renovables.
-.
