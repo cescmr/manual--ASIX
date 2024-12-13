@@ -21,6 +21,10 @@ Más información sobre el desarrollo en el archivo [Desenvolupamiento_IA.md](De
 
 ---
 ## Gestión de la Seguridad
+<a href="https://www.pmg-ssi.com/wp-content/uploads/2020/01/Riesgos-en-los-Sistemas-de-Gesti%C3%B3n-de-Seguridad-de-la-Informaci%C3%B3n.jpg" target="_blank">
+    <img src="https://www.pmg-ssi.com/wp-content/uploads/2020/01/Riesgos-en-los-Sistemas-de-Gesti%C3%B3n-de-Seguridad-de-la-Informaci%C3%B3n.jpg" alt="Inteligencia Artificial" style="width: 500px; height: auto;" />
+</a>
+
 Para saber más sobre Gestión de la Seguridad, revisa el archivo [gestio_seguretat.md](gestio_seguretat.md).
 
 ---
