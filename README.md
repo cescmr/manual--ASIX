@@ -17,7 +17,9 @@ Consulta el archivo [analisis_de_datos.md](analisis_de_datos.md) para más detal
 
 ---
 ## Desarrollo
-
+<a href="https://noticiassalamanca.com/" target="_blank">
+    <img src="https://noticiassalamanca.com/wp-content/uploads/2023/04/ia3.jpg" alt="Analisis de Datos" style="width: 500px; height: auto;" />
+</a>
 
 Más información sobre el desarrollo en el archivo [Desenvolupamiento_IA.md](Desenvolupamiento_IA.md).
 
