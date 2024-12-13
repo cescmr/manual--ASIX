@@ -15,7 +15,7 @@
 ---
 ## Introducción
 Este manual tiene como objetivo proporcionar una visión general de las aplicaciones de la inteligencia artificial (IA) en el desarrollo de aplicaciones informáticas. Se exploran las mejoras que la IA puede aportar en procesos de desarrollo, automatización de tareas y análisis de datos.
----
+
 ## Aplicaciones de la IA en el Desarrollo
 <a href="https://www.dreams.es/" target="_blank">
     <img src="https://www.dreams.es/uploads/post_2023/ia.webp" alt="Inteligencia Artificial" style="width: 500px; height: auto;" />
