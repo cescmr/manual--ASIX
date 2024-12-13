@@ -9,6 +9,10 @@ Para más información sobre Soporte Técnico, consulta el archivo [suporttecnic
 
 ---
 ## Análisis de Datos
+<a href="https://img.freepik.com/" target="_blank">
+    <img src="https://img.freepik.com/vector-gratis/ilustracion-negocio-analisis-datos-estadisticos_24908-59546.jpg" alt="Inteligencia Artificial" style="width: 500px; height: auto;" />
+</a>
+
 Consulta el archivo [analisis_de_datos.md](analisis_de_datos.md) para más detalles sobre Análisis de Datos.
 
 ---
