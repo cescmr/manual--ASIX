@@ -1,5 +1,5 @@
 # Manual de Inteligencia Artificial Aplicada al Desarrollo
-![Inteligencia Artificial] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf_Yc937pz3jefB2Q83qKx6wYFn8W_8rrz5A&s)
+![Inteligencia Artificial] ([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf_Yc937pz3jefB2Q83qKx6wYFn8W_8rrz5A&s](https://www.muycomputerpro.com/wp-content/uploads/2018/01/Inteligencia_Artificial.jpg))
 
 ## Indice
 1. [Introduccion](#introduccion)
