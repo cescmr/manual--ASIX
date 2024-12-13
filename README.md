@@ -17,10 +17,7 @@ Consulta el archivo [analisis_de_datos.md](analisis_de_datos.md) para más detal
 
 ---
 ## Desarrollo
-<a href="https://cdn-3.expansion.mx/" target="_blank">
-    <img src="https://cdn-3.expansion.mx/dims4/default/97f1277/2147483647/strip/true/crop/1276x821+0+0/resize/1800x1158!/format/webp/quality/80/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fef%2F14%2Fd66534f84dc598140ea48e071667%2Ftecnologia-educativa-inteligencia-artificial.jpg
-" alt="Analisis de Datos" style="width: 500px; height: auto;" />
-</a>
+
 
 Más información sobre el desarrollo en el archivo [Desenvolupamiento_IA.md](Desenvolupamiento_IA.md).
 
