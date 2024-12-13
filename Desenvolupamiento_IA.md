@@ -36,7 +36,7 @@ Este manual tiene como objetivo proporcionar una visión general de las aplicaci
 <a href="https://hazrevista.org/" target="_blank">
     <img src="https://hazrevista.org/wp-content/uploads/2024/02/ia-medio-ambiente.jpg" alt="Minimizar Impacto" style="width: 500px; height: auto;" />
 </a>
-
+<a></a>
 - **Consumo energético**: El uso de centros de datos para la IA puede aumentar significativamente el consumo energético y las emisiones de gases de efecto invernadero.
 
 ## Propuestas para Minimizar el Impacto
