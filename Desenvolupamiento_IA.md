@@ -1,4 +1,5 @@
 # Manual de Inteligencia Artificial Aplicada al Desarrollo
+![Inteligencia Artificial] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf_Yc937pz3jefB2Q83qKx6wYFn8W_8rrz5A&s)
 
 ## Indice
 1. [Introduccion](#introduccion)
