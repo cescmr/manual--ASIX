@@ -3,6 +3,7 @@
 <a href="https://www.muycomputerpro.com/" target="_blank">
     <img src="https://www.muycomputerpro.com/wp-content/uploads/2018/01/Inteligencia_Artificial.jpg" alt="Inteligencia Artificial" style="width: 500px; height: auto;" />
 </a>
+---
 
 ## Índice
 1. [Introducción](#introducción)
@@ -11,14 +12,16 @@
 4. [Impacto Ambiental](#impacto-ambiental)
 5. [Propuestas para Minimizar el Impacto](#propuestas-para-minimizar-el-impacto)
 6. [Conclusiones](#conclusiones)
-
+---
 ## Introducción
 Este manual tiene como objetivo proporcionar una visión general de las aplicaciones de la inteligencia artificial (IA) en el desarrollo de aplicaciones informáticas. Se exploran las mejoras que la IA puede aportar en procesos de desarrollo, automatización de tareas y análisis de datos.
-
+---
 ## Aplicaciones de la IA en el Desarrollo
 <a href="https://www.dreams.es/" target="_blank">
     <img src="https://www.dreams.es/uploads/post_2023/ia.webp" alt="Inteligencia Artificial" style="width: 500px; height: auto;" />
 </a>
+
+---
 
 ### Automatización de Pruebas
 - **Pruebas automatizadas**: Uso de herramientas como Selenium y Jest con IA para mejorar la eficiencia de las pruebas de software.
@@ -35,7 +38,7 @@ Este manual tiene como objetivo proporcionar una visión general de las aplicaci
 ## Impacto en el Sector
 - **Incremento de la productividad**: La implementación de herramientas de IA permite automatizar tareas repetitivas, liberando tiempo para tareas más creativas.
 - **Mejora en la calidad del producto**: La detección temprana de errores y la mejora de los procesos de desarrollo resultan en productos de mayor calidad.
-
+---
 ## Impacto Ambiental
 <a href="https://hazrevista.org/" target="_blank">
     <img src="https://hazrevista.org/wp-content/uploads/2024/02/ia-medio-ambiente.jpg" alt="Minimizar Impacto" style="width: 500px; height: auto;" />
